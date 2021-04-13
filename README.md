@@ -5,6 +5,7 @@
 
 CoD4Narod.RU Call Of Duty 4 MW Servers Scripts Все (WEB STATS/SCREENSHOTS / PARSER / MAIN_SHARED)
 The code within this repository is distributed on an "AS IS" basis, without warranties or conditions of any kind
+See also CoD4X plugin https://github.com/volkv/CoD4X-Plugin-GetIP-Tanh-Screenshots-Logger
 
 --------------------------
 It was a good time. RIP CoD4Narod.RU !
